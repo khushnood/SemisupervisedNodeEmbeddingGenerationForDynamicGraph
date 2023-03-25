@@ -6,7 +6,7 @@ Semi supervised Node Embedding Generation ForDynamic Graph
 Please extract the files in the same directory and run the main.py.
  
 **Keywords**: DynamicNodeEmbedding, GraphRepresentationLearning, Dynamic Protein-protein interaction prediction. 
-## Please cite the following paper if you use this code. 
+ 
 
 **Requirements**
 pip install 
